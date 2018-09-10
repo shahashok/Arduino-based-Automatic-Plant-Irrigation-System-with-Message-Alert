@@ -1,0 +1,15 @@
+Required Components:
+Arduino Uno
+GSM Module
+Transistor BC547 (2)
+Connecting wires
+16x2 LCD (optional)
+Power supply 12v 1A
+Relay 12v
+Water cooler pump
+Soil Moisture Sensor 
+Resistors (1k, 10k)
+Variable Resister (10k, 100k)
+Terminal connector
+Voltage Regulator IC LM317
+
